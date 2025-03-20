@@ -116,26 +116,26 @@ Q6: Can you provide examples of how simplifying terms (e.g., "start" instead of 
 
 A6: Yes, here are examples of how simplifying terms improves comprehension:
 
--  Instead of: "Initiate the process."
-    -  Use: "Start the process."
-    -  Why: "Start" is a common, everyday word, while "initiate" is more formal and less familiar.
--  Instead of: "Utilize the interface."
-    -  Use: "Use the interface."
-    -  Why: "Use" is simpler and more direct than "utilize."
--  Instead of: "Implement the algorithm."
-    -  Use: "Follow the steps." or "Use the method."
-    -  Why: "Algorithm" is a technical term. "Steps" or "method" are more general and understandable.
--  Instead of: "Execute the command."
-    -  Use: "Run the command."
+-  Instead of: Initiate the process.
+    -  Use: Start the process.
+    -  Why: Start is a common, everyday word, while "initiate" is more formal and less familiar.
+-  Instead of: Utilize the interface.
+    -  Use: Use the interface.
+    -  Why: Use is simpler and more direct than "utilize."
+-  Instead of: Implement the algorithm.
+    -  Use: Follow the steps. or Use the method.
+    -  Why: Algorithm is a technical term. "Steps" or "method" are more general and understandable.
+-  Instead of: Execute the command.
+    -  Use: Run the command.
     -  Why: "Run" is a more common and easily understood term.
--  Instead of: "Optimize the parameters."
-    -  Use: "Adjust the settings." or "Improve the settings."
+-  Instead of: Optimize the parameters.
+    -  Use: Adjust the settings. or Improve the settings.
     -  Why: "Optimize" and "parameters" are technical terms. "Adjust" and "settings" are more accessible.
--  Instead of: "Access the repository."
-    -  Use: "Open the folder." or "Get the files."
+-  Instead of: Access the repository.
+    -  Use: Open the folder. or Get the files.
     -  Why: "Repository" is technical. "Folder" or "files" are more common.
--  Instead of: "Deactivate the function."
-    -  Use: "Turn off the function."
+-  Instead of: Deactivate the function.
+    -  Use: Turn off the function.
     -  Why: "Turn off" is more common and easier to understand than "deactivate."
 
 
@@ -262,10 +262,10 @@ A12: To succinctly convey a product's purpose and key features:
     - List the most important features using concise bullet points.
     - Focus on the benefits these features provide.
     - Example:
-        - "TaskMaster Key Features:"
-            - "Intuitive drag- and- drop scheduling."
-            - "Automated deadline reminders."
-            - "Progress tracking and reporting."
+            - TaskMaster Key Features:
+            - Intuitive drag- and- drop scheduling.
+            - Automated deadline reminders.
+            - Progress tracking and reporting.
 -  Use Visuals:  
     - Include screenshots or short videos to demonstrate the product's interface and functionality.
 -  Focus on the "Why":  
